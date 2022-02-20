@@ -19,6 +19,10 @@
 PITCH:
 https://www.youtube.com/watch?v=
 
+<p>
+ video tecnico 1
+ https://youtu.be/ORSw-Td2Ot8
+</p> 
 
 
  A [**iChef**](https://www.figma.com/file/kFVL4DXFScsbUzkaRU9Qv2/Untitled?node-id=2%3A9) 
