@@ -60,7 +60,9 @@ O [iChef](https://www.figma.com/file/kFVL4DXFScsbUzkaRU9Qv2/Untitled?node-id=0%3
 
 
 ![](https://i.imgur.com/KN88LYl_d.webp?maxwidth=1560&fidelity=grand)
-
+![](https://i.imgur.com/flcrtiy_d.webp?maxwidth=760&fidelity=grand)
+![](https://i.imgur.com/TKZwUZW_d.webp?maxwidth=760&fidelity=grand)
+![](https://i.imgur.com/9qWYpkJ_d.webp?maxwidth=760&fidelity=grand)
 
 
 ### Time
